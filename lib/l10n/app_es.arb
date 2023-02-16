@@ -1,0 +1,17 @@
+{
+  "@GENERIC": {},
+
+  "@FAILURE": {},
+    "tryAgain": "Intenta de nuevo",
+    "unexpectedError": "Ups! Ha ocurrido un error inesperado",
+
+  "@HOME_SCREEN": {},
+    "courierPackagesMerchandise": "MENSAJERÍA PAQUETES MERCANCÍAS",
+    "shipmentTracking": "Tracking de Envío",
+    "homeDescription": "Escriba su número de cédula para buscar sus guías asociadas.",
+    "searchShipments": "Buscar Envíos",
+    "enterYourId": "Ingrese su cédula",
+    "shipmentsFound": "Envíos encontrados",
+    "trackingGuide": "Guía de rastreo",
+    "addressee": "Destinatario"
+}
