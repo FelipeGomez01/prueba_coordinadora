@@ -28,6 +28,9 @@ class CustomAppBar extends StatelessWidget with PreferredSizeWidget {
           ]
         )
       ),
+      iconTheme: const IconThemeData(
+        color: Colors.black
+      ),
       backgroundColor: Colors.white,
       shape: const RoundedRectangleBorder(
         borderRadius: BorderRadius.vertical(

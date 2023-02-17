@@ -20,7 +20,7 @@ class HomeDataSource {
         data: data
       );
 
-      return !response['error'];
+      return !response.data["error"];
     }
     catch(e){
       rethrow;

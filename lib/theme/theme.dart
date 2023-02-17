@@ -22,8 +22,8 @@ class AppTheme
     colorScheme: ColorScheme.fromSwatch().copyWith(primary: primary.main),
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
-        backgroundColor: Colors.white,
-        foregroundColor: primary.main,
+        backgroundColor: primary.main,
+        foregroundColor: Colors.white,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(25))
       )
     ),
